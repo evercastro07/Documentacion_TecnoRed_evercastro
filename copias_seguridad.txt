@@ -1,0 +1,2 @@
+Las copias de seguridad es una parte muy fundamental del proyecto.En los proyectos en muchas ocasiones hay errores durante el proceso y casi siempre son irreversibles.
+Gracias a las copias de seguridad estamos seguros que ante cualquoier error tenemos una solución rapida.

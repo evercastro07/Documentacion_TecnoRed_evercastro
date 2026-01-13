@@ -1,0 +1,5 @@
+Administrador (jefe)
+Subadministradores (jefes de distintos departamentos)
+Usuarios normales (empleados)
+Usuarios recientes (nuevas incorporaciones)
+Usuarios practicantes (becarios)
