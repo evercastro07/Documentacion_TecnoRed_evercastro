@@ -1,0 +1,5 @@
+Inventario de un pc de la empresa
+CPU: Intel I7 14700k
+RAM: 32 Gb de RAM a 3200mhz 
+Disco: 2 tb de SSD
+Sietema operativo: windows 11 pro

@@ -1,0 +1,5 @@
+Una red local (LAN) es un conjunto de ordenadores y otros dispositivos (como impresoras o móviles) que están conectados entre sí en un mismo lugar, 
+por ejemplo en una casa, un instituto o una oficina.
+
+¿Que dispositivos contiene?
+Contiene un Switch, un router y 10 equipos.
